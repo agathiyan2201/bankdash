@@ -1,0 +1,12 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# Send every route (/transactions, /settings, …) to the React app so refresh doesn't 404.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

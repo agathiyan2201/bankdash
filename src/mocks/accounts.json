@@ -1,0 +1,19 @@
+{
+  "last": [
+    { "id": 1, "description": "Spotify Subscription", "category": "deposit", "date": "2021-01-25", "type": "Shopping", "card": "1234 ****", "status": "Pending", "amount": -150 },
+    { "id": 2, "description": "Mobile Service", "category": "service", "date": "2021-01-25", "type": "Service", "card": "1234 ****", "status": "Completed", "amount": -340 },
+    { "id": 3, "description": "Emilly Wilson", "category": "transfer", "date": "2021-01-25", "type": "Transfer", "card": "1234 ****", "status": "Completed", "amount": 780 }
+  ],
+  "overview": {
+    "debited": 7560, "credited": 5420,
+    "days": ["Sat", "Sun", "Mon", "Tue", "Wed", "Thu", "Fri"],
+    "debit": [1850, 1100, 1050, 2950, 2080, 2200, 2500],
+    "credit": [3250, 2600, 1920, 1690, 3000, 1450, 3050]
+  },
+  "invoices": [
+    { "id": 1, "name": "Apple Store", "ago": "5h ago", "amount": 450, "icon": "bag", "bg": "#DCFAF8", "fg": "#16DBCC" },
+    { "id": 2, "name": "Michael", "ago": "2 days ago", "amount": 160, "icon": "user", "bg": "#FFF5D9", "fg": "#FFBB38" },
+    { "id": 3, "name": "Playstation", "ago": "5 days ago", "amount": 1085, "icon": "game", "bg": "#E7EDFF", "fg": "#396AFF" },
+    { "id": 4, "name": "William", "ago": "10 days ago", "amount": 90, "icon": "user", "bg": "#FFE0EB", "fg": "#FF82AC" }
+  ]
+}

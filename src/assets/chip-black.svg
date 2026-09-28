@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35 35" width="35" height="35">
+  <defs>
+    <mask id="grooves">
+      <rect width="35" height="35" fill="#fff"/>
+      <path d="M0 12h11.5M23.5 12H35M0 23h11.5M23.5 23H35M11.5 3v29M23.5 3v29M11.5 17.5h12" stroke="#000" stroke-width="1.6" fill="none"/>
+    </mask>
+  </defs>
+  <rect x="0.5" y="3" width="34" height="29" rx="6" fill="#000000" mask="url(#grooves)"/>
+</svg>

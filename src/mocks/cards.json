@@ -1,0 +1,5 @@
+[
+  { "id": 1, "balance": 5756, "holder": "Eddy Cusuma", "valid": "12/22", "number": "3778 **** **** 1234", "variant": "primary", "bank": "DBL Bank", "type": "Secondary", "nameOnCard": "William", "last4": "5600" },
+  { "id": 2, "balance": 5756, "holder": "Eddy Cusuma", "valid": "12/22", "number": "3778 **** **** 1234", "variant": "light", "bank": "BRC Bank", "type": "Secondary", "nameOnCard": "Michel", "last4": "4300" },
+  { "id": 3, "balance": 5756, "holder": "Eddy Cusuma", "valid": "12/22", "number": "3778 **** **** 1234", "variant": "sky", "bank": "ABM Bank", "type": "Secondary", "nameOnCard": "Edward", "last4": "7560" }
+]

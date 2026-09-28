@@ -1,0 +1,15 @@
+{
+  "highlights": [
+    { "title": "Life Insurance", "subtitle": "Unlimited protection", "icon": "shield", "bg": "#E7EDFF", "fg": "#396AFF" },
+    { "title": "Shopping", "subtitle": "Buy. Think. Grow.", "icon": "bag", "bg": "#FFF5D9", "fg": "#FFBB38" },
+    { "title": "Safety", "subtitle": "We are your allies", "icon": "shield", "bg": "#DCFAF8", "fg": "#16DBCC" }
+  ],
+  "list": [
+    { "id": 1, "title": "Business loans", "icon": "loan", "bg": "#FFE0EB", "fg": "#FF82AC" },
+    { "id": 2, "title": "Checking accounts", "icon": "briefcase", "bg": "#FFF5D9", "fg": "#FFBB38" },
+    { "id": 3, "title": "Savings accounts", "icon": "trending", "bg": "#FFE0EB", "fg": "#FF82AC" },
+    { "id": 4, "title": "Debit and credit cards", "icon": "user", "bg": "#E7EDFF", "fg": "#396AFF" },
+    { "id": 5, "title": "Life Insurance", "icon": "shield", "bg": "#DCFAF8", "fg": "#16DBCC" },
+    { "id": 6, "title": "Business loans", "icon": "loan", "bg": "#FFE0EB", "fg": "#FF82AC" }
+  ]
+}

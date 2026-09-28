@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "Livia Bator",
+    "role": "CEO",
+    "color": "#FFE0EB",
+    "photo": "livia-bator"
+  },
+  {
+    "id": 2,
+    "name": "Randy Press",
+    "role": "Director",
+    "color": "#E7EDFF",
+    "photo": "randy-press"
+  },
+  {
+    "id": 3,
+    "name": "Workman",
+    "role": "Designer",
+    "color": "#DCFAF8",
+    "photo": "workman"
+  }
+  
+]

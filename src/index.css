@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body { @apply font-sans text-brand-ink antialiased; }
+  :focus-visible { @apply outline-none ring-2 ring-brand-blue ring-offset-2; }
+}
+
+@layer components {
+  .panel { @apply rounded-[25px] bg-white p-5 md:p-6; }
+  .section-title { @apply text-lg font-semibold text-brand-navy md:text-[22px]; }
+  .input {
+    @apply w-full rounded-[15px] border border-brand-border bg-white px-4 py-3 text-sm text-brand-muted
+      placeholder:text-brand-muted focus:border-brand-blue focus:outline-none;
+  }
+  .btn-primary {
+    @apply rounded-[15px] bg-brand-blue px-8 py-3 text-sm font-medium text-white transition
+      hover:bg-[#120FC4] active:scale-[0.98] disabled:opacity-50;
+  }
+  .no-scrollbar::-webkit-scrollbar { display: none; }
+  .no-scrollbar { scrollbar-width: none; }
+}
+
+/* Heights that must fill the real screen even when the desktop view is scaled (see src/scale.js). */
+@layer utilities {
+  .h-viewport { height: calc(100vh / var(--app-zoom, 1)); }
+  .min-h-viewport { min-height: calc(100vh / var(--app-zoom, 1)); }
+  .w-viewport { width: calc(100vw / var(--app-zoom, 1)); }
+}

@@ -1,0 +1,97 @@
+{
+  "weekly": {
+    "days": [
+      "Sat",
+      "Sun",
+      "Mon",
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri"
+    ],
+    "deposit": [
+      480,
+      340,
+      320,
+      480,
+      150,
+      390,
+      400
+    ],
+    "withdraw": [
+      240,
+      130,
+      260,
+      370,
+      240,
+      240,
+      330
+    ]
+  },
+  "expenses": [
+    {
+      "label": "Entertainment",
+      "value": 30,
+      "color": "#343C6A",
+      "offset": 16,
+      "radius": 1
+    },
+    {
+      "label": "Bill Expense",
+      "value": 15,
+      "color": "#FC7900",
+      "offset": 18,
+      "radius": 0.92
+    },
+    {
+      "label": "Others",
+      "value": 35,
+      "color": "#1814F3",
+      "offset": 4,
+      "radius": 0.94
+    },
+    {
+      "label": "Investment",
+      "value": 20,
+      "color": "#FA00FF",
+      "offset": 6,
+      "radius": 1
+    }
+  ],
+  "balance": [
+    {
+      "month": "Jul",
+      "value": 120
+    },
+    {
+      "month": "Aug",
+      "value": 330
+    },
+    {
+      "month": "Sep",
+      "value": 250
+    },
+    {
+      "month": "Oct",
+      "value": 780
+    },
+    {
+      "month": "Nov",
+      "value": 200
+    },
+    {
+      "month": "Dec",
+      "value": 560
+    },
+    {
+      "month": "Jan",
+      "value": 640
+    }
+  ],
+  "summary": {
+    "balance": 12750,
+    "income": 5600,
+    "expense": 3460,
+    "saving": 7920
+  }
+}

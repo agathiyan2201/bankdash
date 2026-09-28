@@ -1,0 +1,25 @@
+{
+  "summary": { "invested": 150000, "count": 1250, "returnRate": 5.8 },
+  "yearly": [
+    { "label": "2016", "value": 5000 }, { "label": "2017", "value": 22000 }, { "label": "2018", "value": 16000 },
+    { "label": "2019", "value": 36000 }, { "label": "2020", "value": 20000 }, { "label": "2021", "value": 28000 }
+  ],
+  "monthly": [
+    { "label": "2016", "value": 10500 }, { "label": "", "value": 14000 }, { "label": "2017", "value": 20000 },
+    { "label": "", "value": 12000 }, { "label": "2018", "value": 26000 }, { "label": "", "value": 32000 },
+    { "label": "2019", "value": 21000 }, { "label": "", "value": 28000 }, { "label": "2020", "value": 24000 },
+    { "label": "", "value": 15000 }, { "label": "2021", "value": 34000 }
+  ],
+  "mine": [
+    { "id": 1, "name": "Apple Store", "category": "E-commerce, Marketplace", "value": 54000, "return": 16, "bg": "#FFE0EB", "fg": "#FF82AC" },
+    { "id": 2, "name": "Samsung Mobile", "category": "E-commerce, Marketplace", "value": 25300, "return": -4, "bg": "#E7EDFF", "fg": "#396AFF" },
+    { "id": 3, "name": "Tesla Motors", "category": "Electric Vehicles", "value": 8200, "return": 25, "bg": "#FFF5D9", "fg": "#FFBB38" }
+  ],
+  "trending": [
+    { "name": "Trivago", "price": 520, "return": 5 },
+    { "name": "Canon", "price": 480, "return": 10 },
+    { "name": "Uber Food", "price": 350, "return": -3 },
+    { "name": "Nokia", "price": 940, "return": 2 },
+    { "name": "Tiktok", "price": 670, "return": -12 }
+  ]
+}

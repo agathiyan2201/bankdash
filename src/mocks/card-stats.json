@@ -1,0 +1,6 @@
+[
+  { "label": "DBL Bank", "color": "#4C78FF", "radius": 1 },
+  { "label": "BRC Bank", "color": "#FF82AC", "radius": 0.82 },
+  { "label": "ABM Bank", "color": "#16DBCC", "radius": 1.12 },
+  { "label": "MCP Bank", "color": "#FFBB38", "radius": 0.92 }
+]

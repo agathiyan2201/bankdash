@@ -1,0 +1,18 @@
+{
+  "summary": [
+    { "label": "Personal Loans", "value": "$50,000", "icon": "user", "bg": "#E7EDFF", "fg": "#396AFF" },
+    { "label": "Corporate Loans", "value": "$100,000", "icon": "briefcase", "bg": "#FFF5D9", "fg": "#FFBB38" },
+    { "label": "Business Loans", "value": "$500,000", "icon": "trending", "bg": "#FFE0EB", "fg": "#FF82AC" },
+    { "label": "Custom Loans", "value": "Choose Money", "icon": "service", "bg": "#DCFAF8", "fg": "#16DBCC" }
+  ],
+  "active": [
+    { "id": 1, "money": 100000, "left": 40500, "duration": "8 Months", "rate": 12, "installment": 2000 },
+    { "id": 2, "money": 500000, "left": 250000, "duration": "36 Months", "rate": 10, "installment": 8000 },
+    { "id": 3, "money": 900000, "left": 40500, "duration": "12 Months", "rate": 12, "installment": 5000 },
+    { "id": 4, "money": 50000, "left": 40500, "duration": "25 Months", "rate": 5, "installment": 2000 },
+    { "id": 5, "money": 50000, "left": 40500, "duration": "5 Months", "rate": 16, "installment": 10000 },
+    { "id": 6, "money": 80000, "left": 25500, "duration": "14 Months", "rate": 8, "installment": 2000 },
+    { "id": 7, "money": 12000, "left": 5500, "duration": "9 Months", "rate": 13, "installment": 500 },
+    { "id": 8, "money": 160000, "left": 100800, "duration": "3 Months", "rate": 12, "installment": 900 }
+  ]
+}
